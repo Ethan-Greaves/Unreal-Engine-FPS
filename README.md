@@ -11,7 +11,14 @@
 ## Overview 📖
 A 'first person shooter' technical demonstration which utilises many different aspects of Unreal Engine 4. It is coded primarily in C++, but blueprints is also used when needed. This project was created as part of my 'Game Engine Programming' module at University where I had to build a game with a single level and incorporate systems such as custom weapons, an ability and pickups which affect the character.
 
-## Technologies & Features 👨‍💻
+## Details 👨‍💻
+
+### Technologies
+* C++
+* Unreal Engine 4
+* Blueprints
+
+### Features
 * An inventory system whereby the player can pick up and equip guns
 * A sprinting ability
 * A graphical UI which displays stamina, health and score
@@ -23,10 +30,10 @@ A 'first person shooter' technical demonstration which utilises many different a
 <p>Add items to your inventory and equip them:</p>
 <img src="./Gifs/UE4FPSInventory.gif" width="auto" />
 
-<p>Use different weapon types:</p>
+<p>Use different weapon types (hitscan and projectile):</p>
 <img src="./Gifs/UE4FPSWeaponTypes.gif" width="auto" />
 
-<p>Sprint using stamina which displayed with a GUI:</p>
+<p>Sprint using stamina which is displayed with a GUI:</p>
 <img src="./Gifs/UE4FPSSprinting.gif" width="auto" />
 
 
